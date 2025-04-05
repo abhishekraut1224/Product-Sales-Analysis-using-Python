@@ -19,7 +19,8 @@ The business wanted to understand its sales trends, peak sales period, and custo
 
 
 ## Total Sales Over Months in all Year
-![image](https://github.com/user-attachments/assets/18312fe7-4893-4423-a858-d6cea8d9e8c5)
+![image](https://github.com/user-attachments/assets/db90a200-34e3-4e38-8fa0-39f544376637)
+
 ##### Since the data is from the USA, the increase in sales during December
 ##### can be attributed to the Christmas season, when people tend to buy gifts
 ##### and do a lot of holiday shopping.
